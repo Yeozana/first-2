@@ -1,0 +1,10 @@
+table, th, td {
+    border:1px solid black;
+    border-style: solid;
+    width: 100%;
+  }
+  img{
+    position: absolute;
+    border: none;
+    left: 20px;
+  }
